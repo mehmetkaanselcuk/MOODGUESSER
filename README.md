@@ -1,5 +1,5 @@
 # MOODGUESSER
 
-A simple Java console app that guesses your mood based on a few questions.
+A simple Java code that guesses your mood based on a few questions.
 
 📄 Source file: `src/main/Main.java`
